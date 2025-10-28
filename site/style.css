@@ -1,0 +1,35 @@
+p {
+    font-family: Georgia;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(43, 24, 24);
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-family: Georgia;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    font-family: Georgia;
+    font-size: 18px;
+    color: rgb(136, 161, 245);
+    
+}
+a:visited {
+    color: rgb(255, 132, 95)
+}
+
+a:hover {
+    color: rgb(253, 208, 181)
+}
